@@ -2,21 +2,34 @@ body {
   background-color: #A9A9A9;
   font-family: verdana;
 }
-.bg {
+/*.bg {
   background-image: url("crfreetechimg.jpg");
 	background-position: center;
-	height: 100%; background-repeat: no-repeat;
+	height: 100%; background-repeat: no-repeat;*/
 }
 h1{
 	color: white;
 	text-align: center;
+	font-size: 45px;
 }
 div{
 	color: white;
 	text-align: center;
-	font-size:15px
+	font-size:15px;
 }
 p{
 	color: white;
 	text-align: center;
-	font-size:10px
+	font-size:15px;
+}
+input{
+	display:block;
+	text-align: center;
+	font-size:10px;
+	border:1.5px solid red;
+	border-radius: 4px
+}
+label {
+	display: block;
+	margin-top: 15px;
+}
