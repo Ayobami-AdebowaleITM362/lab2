@@ -25,7 +25,7 @@ p{
 @media{
 input{
 	display:block;
-	text-align: left;
+	/*text-align: left;*/
 	font-size:10px;
 	border:1.5px solid red;
 	border-radius: 4px
