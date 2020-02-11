@@ -9,23 +9,23 @@ body {
 }
 h1{
 	color: white;
-	text-align: center;
+	text-align: left;
 	font-size: 45px;
 }
 div{
 	color: white;
-	text-align: center;
+	text-align: left;
 	font-size:15px;
 }
 p{
 	color: white;
-	text-align: center;
+	text-align: left;
 	font-size:15px;
 }
 @media{
 input{
 	display:block;
-	text-align: center;
+	text-align: left;
 	font-size:10px;
 	border:1.5px solid red;
 	border-radius: 4px
