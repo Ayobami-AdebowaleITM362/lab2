@@ -22,6 +22,7 @@ p{
 	text-align: center;
 	font-size:15px;
 }
+@media{
 input{
 	display:block;
 	text-align: center;
@@ -32,4 +33,5 @@ input{
 label {
 	display: block;
 	margin-top: 15px;
+}
 }
