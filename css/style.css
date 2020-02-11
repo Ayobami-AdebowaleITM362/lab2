@@ -1,3 +1,16 @@
+
+@media screen and(max-width;600px){
+input{
+	display:block;
+	/*text-align: left;*/
+	font-size:10px;
+	border:1.5px solid red;
+	border-radius: 4px
+}
+label {
+	display: block;
+	margin-top: 15px;
+}
 body {
   background-color: #A9A9A9;
   font-family: verdana;
@@ -28,17 +41,5 @@ select {
   border: none;
   border-radius: 4px;
   background-color: #f1f1f1;
-}
-@media{
-input{
-	display:block;
-	/*text-align: left;*/
-	font-size:10px;
-	border:1.5px solid red;
-	border-radius: 4px
-}
-label {
-	display: block;
-	margin-top: 15px;
 }
 }
